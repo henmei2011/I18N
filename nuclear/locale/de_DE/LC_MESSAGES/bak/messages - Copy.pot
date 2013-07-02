@@ -1,0 +1,180 @@
+# Copyright (C) 2013 Nuclear Industries
+# This file is distributed under the same license as the PACKAGE package.
+# HM hmeinig@sdl.com, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: v.1.1\n"
+"Report-Msgid-Bugs-To: hmeinig@sdl.com \n"
+"POT-Creation-Date: 2013-02-06 09:28-0700\n"
+"PO-Revision-Date: 2013-02-07 09:28-0700\n"
+"Last-Translator: Henry Meinig hmeinig@sdl.com\n"
+"Language-Team: German hmeinig@sdl.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: index.php:34
+msgid "Sample String 1"
+msgstr "Zeichenkette 1"
+
+#: index.php:37
+msgid "Sample String 2"
+msgstr "Zeichenkette 2"
+
+#: index.php:43
+msgid "house"
+msgid_plural "houses"
+msgstr[0] "Haus"
+msgstr[1] "Häuser"
+msgstr[2] "Heiserl"
+
+#: index.php:48
+msgid "Sample String 3"
+msgstr "Zeichenkette 3"
+
+#: index.php:59
+msgid "Intro"
+msgstr "Einführung"
+
+#: index.php:63
+msgid "Paragraph"
+msgstr "Absatz"
+
+#: index.php:67
+msgid "Objective"
+msgstr "Ziel"
+
+#: index.php:70
+msgid "Use 'cannot' instead of can't"
+msgstr "Keine Umgangssprache bitte"
+
+#: index.php:73
+msgid "Use 'do not' instead of don't"
+msgstr "Keine Abkürzungen"
+
+#: index.php:76
+msgid "L'apostrophe"
+msgstr "Aufpassen bei L'Apostrophe"
+
+#: index.php:80
+msgid "Here is a link:"
+msgstr "Verknüpfung: "
+
+#: index.php:87
+msgid "message section"
+msgstr "Nachrichten"
+
+#: index.php:93
+msgid "You are viewing this page using $http_user_agent"
+msgstr "Sie sehen diese Seite mit $http_user_agent"
+
+#: index.php:98
+msgid "You are running $script_filename"
+msgstr "Diese Script ist $script_filename"
+
+#: index.php:103
+msgid "The server web app that runs PHP is $server_software."
+msgstr "$server_software ist die Serveranwendung."
+
+#: index.php:109
+msgid "Ohaio gozaimasu, $last_name $first_name"
+msgstr "Hallo $last_name $first_name"
+
+#: index.php:112
+msgid "Ohaio gozaimasu"
+msgstr "Guten Morgen"
+
+#: index.php:118
+msgid "Ohaio gozaimasu, $full_name"
+msgstr "Guten Morgen, $full_name"
+
+#: form.php:29
+msgid "Registration Form"
+msgstr "Anmeldeformular"
+
+#: form.php:37
+msgid "Please enter the following information :"
+msgstr "Bitte geben Sie die folgenden Informationen ein: "
+
+#: form.php:43
+msgid "Name: "
+msgstr "Name: "
+
+#: form.php:47
+msgid "Email: "
+msgstr "E-Mail: "
+
+#: form.php:53
+msgid "Gender: "
+msgstr "Geschlecht: "
+
+#: form.php:55
+msgid "Male"
+msgstr "Männlich"
+
+#: form.php:57
+msgid "Female"
+msgstr "Weiblich"
+
+#: form.php:62
+msgid "Age: "
+msgstr "Alter:"
+
+#: form.php:64
+msgid "Under 30"
+msgstr "Unter 30"
+
+#: form.php:67
+msgid "Between 30 and 60"
+msgstr "Zwischen 30 und 60"
+
+#: form.php:70
+msgid "Over 60"
+msgstr "Über 60"
+
+#: form.php:77
+msgid "Please enter how many houses you own: "
+msgstr "Bitte geben Sie ein wie viele Häuser Sie besitzen:"
+
+#: form.php:85
+msgid "Comments: "
+msgstr "Kommentare:"
+
+#: form.php:95
+msgid "Submit"
+msgstr "Absenden"
+
+#: handle_form.php:43
+msgid "Good day, Sir!"
+msgstr "Guten Tag, mein Herr!"
+
+#: handle_form.php:47
+msgid "Good day, Madam!"
+msgstr "Guten Tag, gnädige Frau!"
+
+#: handle_form.php:51
+msgid "Please enter your gender."
+msgstr "Bitte geben Sie an was ihr Geschlecht ist."
+
+#: handle_form.php:56
+msgid "Thank you, $name, for the comments: "
+msgstr "Danke, $name, für Ihre Kommentare: "
+
+#: handle_form.php:61
+msgid "We will reply to you at $email."
+msgstr "Wir schicken Ihnen eine Nachricht an die E-Mail-Adresse $email."
+
+#: handle_form.php:64
+msgid "Your age is $age and your gender is $gender."
+msgstr "Sie sind $age alt und Ihr Geschlecht ist $gender."
+
+#: handle_form.php:67
+msgid "You own $house_count house"
+msgid_plural "You own $house_count houses"
+msgstr[0] "Sie besitzen $house_count Haus."
+msgstr[1] "Sie besitzen $house_count Häuser."
+msgstr[2] "Sie besitzen $house_count Heiserl."
+
